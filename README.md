@@ -1,10 +1,34 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+<br />
+<br />
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+## :bookmark: Resumo
+<br />
 
-### Os requisitos são:
+ 
+Projeto desenvolvido pelo Bootcamp da Digital Innovation One, que consiste em um clone da interface de login do instagram.
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## 🚀 Let's code! 🚀
+## :bulb: Conteúdos abordados
+<br />
+
+- Html
+- CSS
+
+<br />
+
+## :memo: License
+
+Este projeto esta sob a [MIT license](LICENSE) para mais detalhes.
+<br />
+<br />
+
+## :wave: Social
+
+Siga @sergiodb121 nas redes :wink:
+<br />
+
+- [Instagram](https://www.instagram.com/sergiodb121/)
+- [LinkedIn](https://www.linkedin.com/in/s%C3%A9rgio-damaceno-botelho-ab9a24184/)
+
+<br />
+
